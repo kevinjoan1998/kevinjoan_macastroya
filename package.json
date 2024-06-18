@@ -1,0 +1,27 @@
+{
+  "name": "minimarketefren",
+  "version": "1.0.0",
+  "main": "/** @type {import('tailwindcss').Config} */",
+  "scripts": {
+    "test": ".exports = {"
+  },
+  "repository": {
+    "type": "git",
+    "url": "  theme: {"
+  },
+  "keywords": [
+    "require('@tailwindcss/forms')",
+    "]"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.7",
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.38"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
